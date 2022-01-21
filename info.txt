@@ -1,0 +1,10 @@
+MAIL_USERNAME=laravel58test@gmail.com
+MAIL_PASSWORD=wapcac-cexxi6-fIjnyx
+
+AMVFC pattern
+Copy the template to temp folder
+Make the view
+Make the controller//use nessesary design pattern.
+Make the model
+add the features
+Enjoy the project
